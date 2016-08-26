@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tell in Box</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="username">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="type_password">Type Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="adresse">Adresse</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="action_log_in">Log In</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="or">Or</string>
+
+    <string name="title_activity_member">MemberActivity</string>
+    <string name="add_topic_member">Add Topic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ajouter Message</string>
+
+    <string name="facebook_app_id"></string>
+</resources>
